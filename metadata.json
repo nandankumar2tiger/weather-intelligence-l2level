@@ -1,0 +1,6 @@
+{
+  "name": "Weather Intelligence",
+  "description": "A smarter weather app offering city search, interactive temperature trend charts, 7-day forecasts, and meteorological recommendations for travel and outdoor activities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
